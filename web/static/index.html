@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>채팅</title>
+    <link rel="stylesheet" href="./css/index.css">
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="./js/index.js"></script>
+  </head>
+  <body>
+    <div id="main">
+      <div id="chat">
+        <!-- 채팅 메시지 영역 -->
+      </div>
+      <div style = "background-color: rgb(216, 216, 216);">
+        <button onclick="emoticonSend('emoticon1')"> <img id = "emoticon1" src="https://stickershop.line-scdn.net/stickershop/v1/sticker/342103006/iPhone/sticker_animation@2x.png;compress=true" style = "width:70px; height:65px"> </button>
+        <button onclick="emoticonSend('emoticon2')"> <img id = "emoticon2" src="https://stickershop.line-scdn.net/stickershop/v1/sticker/342103009/iPhone/sticker_animation@2x.png;compress=true" style = "width:70px; height:65px"> </button>
+        <button onclick="emoticonSend('emoticon3')"> <img id = "emoticon3" src="https://stickershop.line-scdn.net/stickershop/v1/sticker/342103010/iPhone/sticker_animation@2x.png;compress=true" style = "width:70px; height:65px"> </button>
+        <button onclick="emoticonSend('emoticon4')"> <img id = "emoticon4" src="https://stickershop.line-scdn.net/stickershop/v1/sticker/342103011/iPhone/sticker_animation@2x.png;compress=true" style = "width:70px; height:65px"> </button>
+        <button onclick="emoticonSend('emoticon5')"> <img id = "emoticon5" src="https://stickershop.line-scdn.net/stickershop/v1/sticker/342103013/iPhone/sticker_animation@2x.png;compress=true" style = "width:70px; height:65px"> </button>
+      </div>
+      <div>
+        <input type="text" id="test" style = "width:80%;" placeholder="메시지를 입력해주세요..">
+        <button onclick="send()">전송</button>
+      </div>
+    </div>
+  </body>
+</html>
