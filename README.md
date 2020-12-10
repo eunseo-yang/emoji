@@ -35,10 +35,10 @@ Bert model paper: https://arxiv.org/abs/1810.04805 <br>
 
 
 ## 팀원 기술블로그 주소
-양은서 : https://eunseo1092.tistory.com/ <br>
-남궁지윤 : https://deepdeep12.tistory.com/ <br>
-이경민 : https://blog.naver.com/julie-code  <br>
-장보미: https://bomiiiii.tistory.com/11 <br>
+양은서 (https://eunseo1092.tistory.com/) : attention 기법을 기반으로 문장의 의미를 분석해보는 transformer model을 이용한 감정 분석 <br>
+남궁지윤 (https://deepdeep12.tistory.com/) : 사전학습을 통해 텍스트의 흐름까지 파악할 수 있는 bert model을 이용한 감정 분석<br>
+이경민 (https://blog.naver.com/julie-code) : 자연어처리를 위한 Word2Vec을 한국어에 적용 및 채팅 시스템 구현<br>
+장보미 (https://bomiiiii.tistory.com/11) : 크롤링 및 자연어의 이미지화가 가능한 1dCNN을 통한 감정분석 <br>
 
 
 ## License
