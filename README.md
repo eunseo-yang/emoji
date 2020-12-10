@@ -6,7 +6,7 @@
 ### 시제품 (웹)
 https://emoticon-chat-project.herokuapp.com/
 
-
+<br>
 ## 프로젝트에 대한 소개
 A project to identify the nuances of a conversation through a user's chat conversation and recommend appropriate emoticons.
 
@@ -21,7 +21,7 @@ A project to identify the nuances of a conversation through a user's chat conver
 3. 감정의 카테고리(13가지): 머쓱할 때, 화가 날 때, 고마울 때(감동), 대화를 끝낼 때, 파이팅 할 때, 슬플 때, 무기력 할 때, 예측하는 이모티콘, 의문을 가질 때, 귀여운 모습을 보이고 싶을 때, 미안할 때, 비꼴 때, 대답할 때
 4. 대화 내용에 해당하는 감정과 맞는 이모티콘을 사용자에게 실시간으로 추천 및 채팅창에 효과 제공
 
-
+<br>
 ## Reference
 + 채팅 웹 구현 <br>
 https://github.com/leegeunhyeok/node-chat <br>
@@ -33,13 +33,13 @@ BERT언어 이해를 위한 양방향 트랜스포머 사전 학습(BERT: Pre-tr
 Attention is all you need(transformer model paper): https://arxiv.org/abs/1706.03762 <br>
 Bert model paper: https://arxiv.org/abs/1810.04805 <br>
 
-
+<br>
 ## 팀원 기술블로그 주소
 양은서 (https://eunseo1092.tistory.com/) : attention 기법을 기반으로 문장의 의미를 분석해보는 transformer model을 이용한 감정 분석 <br>
 남궁지윤 (https://deepdeep12.tistory.com/) : 사전학습을 통해 텍스트의 흐름까지 파악할 수 있는 bert model을 이용한 감정 분석<br>
 이경민 (https://blog.naver.com/julie-code) : 자연어처리를 위한 Word2Vec을 한국어에 적용 및 채팅 시스템 구현<br>
 장보미 (https://bomiiiii.tistory.com/11) : 크롤링 및 자연어의 이미지화가 가능한 1dCNN을 통한 감정분석 <br>
 
-
+<br>
 ## License
 MIT License
