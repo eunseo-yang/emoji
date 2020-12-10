@@ -23,9 +23,9 @@ A project to identify the nuances of a conversation through a user's chat conver
 
 
 ## Reference
-+ 채팅 웹 구현
-https://github.com/leegeunhyeok/node-chat
-+ 대화의 감정 분석
++ 채팅 웹 구현 <br>
+https://github.com/leegeunhyeok/node-chat <br>
++ 대화의 감정 분석 <br>
 넥슨의ndc(개발자 컨퍼런스) 욕설 분류: 정확도 약 90퍼센트 (1dCNN 사용): https://www.youtube.com/watch?v=K4nU7yXy7R8 <br>
 딥러닝을 사용한 온라인 게임에서의 욕설 탐지 - 한국컴퓨터정보학회 학술발표논문집 27(2), 2019.7, 13-14(2 pages) <br>
 BERT언어 이해를 위한 양방향 트랜스포머 사전 학습(BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding) -googleAI <br>
